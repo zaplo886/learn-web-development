@@ -1,0 +1,15 @@
+.text{
+    color: grey;
+    font-size: 36px;
+    font-family: inherit;
+    background: linear-gradient(aliceBlue,LightBlue,aqua);
+    border-radius: 45px;
+    border: groove 2px white;
+}
+body{
+    background: blue;
+}
+.credits{
+    font-size: 28px;
+    color: red;
+}

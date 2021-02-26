@@ -1,0 +1,23 @@
+  
+
+  h1{
+    color: #bd7100;
+    font-size:43px;
+    font-family: castellar;
+    border: ridge 8px green;
+    margin: 10,0,10,0;
+    }
+    p1{
+        font-family: cursive;
+        font-size: 26px; 
+        color: gray;
+        padding: 50px;
+        margin: 15px;
+        border-radius: 65px;
+    }
+    body{
+        background-color: rgba(109, 178, 235, 0.829);
+        font-family: fonte;
+        border-width: 100000px;
+        border: outset 45px red; 
+    }
