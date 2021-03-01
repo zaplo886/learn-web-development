@@ -1,3 +1,7 @@
 body{
-    background: linear-gradient(aqua,pink,red)
+    background: blue;
+}
+.text{
+    font-size: 18px;
+    color: grey;
 }
